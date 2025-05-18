@@ -59,10 +59,8 @@ To create a complete data analytics pipeline from raw data to dashboard using re
 booking-data-analysis/
 │
 ├── dataset to excel/             # Raw and cleaned data files (Excel, CSV)
-├── /           # Python scripts for ETL and exports
-├── sql/               # SQL queries used for analysis
-├── dashboard/         # Power BI .pbix file or screenshots
-├── insights.md        # Summary of business insights
+├──python code sql to excel /           # Python scripts for ETL and exports
+├── powerbi report/         # Power BI .pbix file or screenshots
 └── README.md          # Project overview
 ```
 
