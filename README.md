@@ -20,7 +20,7 @@ To create a complete data analytics pipeline from raw data to dashboard using re
 2. **ETL Pipeline (Python + MySQL)**  
    - Extracted and cleaned data using Python (`pandas`)
    - Loaded cleaned data into MySQL database tables
-   - Scripts used: `excel_to_mysql.py`, `export_to_excel.py`
+   - Scripts used: ``, `export_to_excel.py`
 
 3. **SQL Analysis**  
    - Wrote SQL queries to extract key metrics such as:
@@ -88,7 +88,7 @@ booking-data-analysis/
 3. Run the ETL script:
    ```bash
    python code sql to excel/hk.py,n1.py
-   
+   python code excel to sql/nik3.py,nik4.py,nk.py,nik2.py
    ```
 4. Query the database using scripts using join function.
 5. Export results using `dataframename_to_excel.py` and load into Power BI.
