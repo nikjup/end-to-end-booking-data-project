@@ -28,7 +28,10 @@ To create a complete data analytics pipeline from raw data to dashboard using re
      - Cancellations by country
      - Revenue by customer type
      - Average booking duration
-     - denormalize the normalized table
+     - denormalize the normalized table![Power BI Desktop 16-05-2025 05_31_39](https://github.com/user-attachments/assets/28a7ec90-3381-4904-a25c-761680ef74ae)
+![Power BI Desktop 16-05-2025 07_58_42](https://github.com/user-attachments/assets/121b9505-a24e-4047-a1e9-88b29b0e01a5)
+
+![Power BI Desktop 16-05-2025 07_58_30](https://github.com/user-attachments/assets/410ed54a-17c7-4815-8190-ca43f338b53b)
 
 4. **Data Export & Reporting**  
    - Queried data exported from MySQL to Excel using Python
