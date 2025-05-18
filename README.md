@@ -97,3 +97,5 @@ booking-data-analysis/
 
 This project is part of a data analytics case study to simulate a professional environment for practicing both analysis and data engineering.
 
+
+![MySQL 8 0 Command Line Client 16-05-2025 07_54_34](https://github.com/user-attachments/assets/5a595cc8-c2e3-4473-af65-8098c74c6601)
