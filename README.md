@@ -87,7 +87,8 @@ booking-data-analysis/
 2. Ensure MySQL is installed and running.
 3. Run the ETL script:
    ```bash
-   python scripts/excel_to_mysql.py
+   python code sql to excel/hk.py,n1.py
+   
    ```
 4. Query the database using scripts using join function.
 5. Export results using `dataframename_to_excel.py` and load into Power BI.
