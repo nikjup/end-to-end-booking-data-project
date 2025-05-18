@@ -82,7 +82,7 @@ booking-data-analysis/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/booking-data-analysis.git
+   git clone https://github.com/nikjup/end-to-end-booking-data-project.git
    ```
 2. Ensure MySQL is installed and running.
 3. Run the ETL script:
