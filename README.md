@@ -100,3 +100,6 @@ This project is part of a data analytics case study to simulate a professional e
 
 
 ![MySQL 8 0 Command Line Client 16-05-2025 07_54_34](https://github.com/user-attachments/assets/5a595cc8-c2e3-4473-af65-8098c74c6601)
+![Power BI Desktop 16-05-2025 05_31_39](https://github.com/user-attachments/assets/447196e5-11b2-49b6-bd3d-9e5cab0b5741)
+![Power BI Desktop 16-05-2025 07_58_30](https://github.com/user-attachments/assets/1dc125c6-c0d6-4613-bdd4-b50adcdc5251)
+![Power BI Desktop 16-05-2025 07_58_42](https://github.com/user-attachments/assets/d25c1b44-72bc-47c2-af9a-dc4ce553683b)
