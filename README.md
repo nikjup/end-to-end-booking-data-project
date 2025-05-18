@@ -20,7 +20,7 @@ To create a complete data analytics pipeline from raw data to dashboard using re
 2. **ETL Pipeline (Python + MySQL)**  
    - Extracted and cleaned data using Python (`pandas`)
    - Loaded cleaned data into MySQL database tables
-   - Scripts used: `nik3.py,nik4.py,nk.py,nk2.py`, ``
+   - Scripts used: `nik3.py,nik4.py,nk.py,nk2.py`, `hk.py,n1.py`
 
 3. **SQL Analysis**  
    - Wrote SQL queries to extract key metrics such as:
